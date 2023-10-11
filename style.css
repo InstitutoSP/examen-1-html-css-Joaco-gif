@@ -1,0 +1,45 @@
+
+<section id="#Caracteristicas">
+<h2> Caracteristicas </h2>
+
+
+</section>
+
+
+</main>
+</body>
+header{
+background-color:rgb(0, 0, 0);
+color:rgb(255, 255, 255, 0.658);
+text-align:center;
+padding: 18px;
+}
+nav ul{
+list-style-type:none;
+}
+nav li{
+display:inline;
+margin-right:18px;
+}
+nav a{
+text-decoration: none;
+color: rgb(250, 243, 243);
+}
+main{
+padding:18px;
+}
+section{
+margin-bottom: 18px;
+}
+footer{
+padding: 18px;
+}
+section{
+margin-bottom: 20px;
+}
+body{
+background-color:rgb(56, 54, 54);
+color: rgb(177, 53, 189);
+}
+
+  
